@@ -4,7 +4,7 @@ title: INDEX
 ---
 
 
-![LOGO2](/logo_ikt.jpg)
+![LOGO2](logo_ikt.jpg)
 
 # Calibration - best practice and challenge
 
@@ -12,7 +12,7 @@ title: INDEX
 - [Lecturer](Team)
 - [Getting started with Python](py_guide)
 
-- Alternatively you can access the exercise without any configuration or installation by following this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jochenkohler/INFRa_course_material_JK.git/main?filepath=CodeCalibration.ipynb)
+- Alternatively you can access the exercise without any configuration or installation by following this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jochenkohler/Course_Material_Lund2022.git/main?labpath=CodeCalibration.ipynb)
 
 
 # Course Material
